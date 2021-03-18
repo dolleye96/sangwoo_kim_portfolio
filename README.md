@@ -1,3 +1,7 @@
+# Homepage for deployed React App
+Open [https://dolleye96.github.io/sangwoo_kim_portfolio](https://dolleye96.github.io/sangwoo_kim_portfolio)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
